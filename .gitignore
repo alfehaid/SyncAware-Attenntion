@@ -1,0 +1,7 @@
+.DS_Store
+__pycache__/
+*.pyc
+models/GoogleColab/DTIDS_Complete_Package.zip
+*.zip
+data/synthetic_large/
+data/real_datasets/
