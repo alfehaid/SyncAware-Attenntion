@@ -7,7 +7,7 @@ materials for the paper:
 
 > **SyncAware attention: an attention mechanism for digital twin synchronization in cybersecurity applications.**
 > Haitham Saleh M. Alfehaid, Iftikhar Ahmad, Madini O. Alassafi.
-> Department of Information Systems, Faculty of Computing and Information Technology,
+> Department of Information Technology, Faculty of Computing and Information Technology,
 > King Abdulaziz University, Jeddah, Saudi Arabia.
 
 ---
@@ -260,7 +260,7 @@ Contributions, bug reports, and reproducibility checks are welcome.
 ## Maintainers and Contact
 
 This repository is maintained by the authors of the paper at the Department
-of Information Systems, Faculty of Computing and Information Technology,
+of Information Technology, Faculty of Computing and Information Technology,
 King Abdulaziz University.
 
 For questions about the code or the datasets, please contact the corresponding
