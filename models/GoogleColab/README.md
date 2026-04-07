@@ -7,7 +7,6 @@ This folder contains everything you need to run DT-HybridNet on Google Colab:
 ### 📁 Files Included:
 - **`DT_HybridNet_Colab.ipynb`** - Complete Jupyter Notebook ready to run
 - **`DTIDS_Complete_Package.zip`** (107MB) - Full source code and data
-- **`Instructions.md`** - Detailed setup and usage instructions
 - **`README.md`** - This file
 
 ## 🎯 Quick Start Guide
